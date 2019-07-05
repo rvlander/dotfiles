@@ -26,6 +26,7 @@ Plug 'jeffkreeftmeijer/vim-numbertoggle'
 Plug 'roman/golden-ratio'
 Plug 'w0rp/ale'
 Plug 'vim-airline/vim-airline'
+Plug 'zxqfl/tabnine-vim'
 
 " Tmux integration
 Plug 'benmills/vimux'

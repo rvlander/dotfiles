@@ -96,3 +96,10 @@ fi
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 eval "$(rbenv init -)"
+export PATH="$PATH:$HOME/.rvm/bin"
+
+export PATH="$PATH:$HOME/.local/bin"
+
+export NODE_EXTRA_CA_CERTS="/home/gandre/WIP/Aeroport/ansible/ca/CA.pem"
+source /usr/share/nvm/init-nvm.sh
+
